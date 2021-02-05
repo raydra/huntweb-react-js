@@ -1,3 +1,3 @@
 # Primeiro site em react
 
-Site desenvolvido em react para consumir as informaçoes do projeto "node-api".
+Site desenvolvido em react para consumir as informações do projeto "node-api".
